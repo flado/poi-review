@@ -1,0 +1,2176 @@
+[{
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Camerons Marina",
+		"Phone": "(02) 9810 7808",
+		"Address": "5A Phoebe St, Balmain NSW 2041",
+		"Web_address": "http://www.cameronsmarina.com.au",
+		"Operating_Hours": "7 days: Dawn-Dusk",
+		"Berth": "Y ",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": null,
+		"OBJECTID": 1
+	},
+	"location": {
+		"lat": -33.8546134516475,
+		"lng": 151.170953500134
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Balmain Marina",
+		"Phone": "(02) 9555 7049",
+		"Address": "1 Phoebe St, Balmain NSW 2041",
+		"Web_address": "http://www.balmainmarina.com.au",
+		"Operating_Hours": "7 days: 7am-6pm",
+		"Berth": "Y",
+		"Water_Taxi": " N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 12 metre vessel at destination berth.",
+		"OBJECTID": 2
+	},
+	"location": {
+		"lat": -33.8545010745707,
+		"lng": 151.171194391602
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Balmain West Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 3
+	},
+	"location": {
+		"lat": -33.8550007799606,
+		"lng": 151.168575075699
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Cruising Yacht Club of Australia",
+		"Phone": "(02) 8292 7800",
+		"Address": "1 New Beach Rd, Darling Point NSW 2027",
+		"Web_address": "http://www.cyca.com.au",
+		"Operating_Hours": "7 days: 7am-6pm (Summer); 7am-5pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "Y",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 20 metre vessel at destination berth, please call ahead to confirm availability of destination\r\nmooring.",
+		"OBJECTID": 5
+	},
+	"location": {
+		"lat": -33.8738225480914,
+		"lng": 151.233631792468
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Double Bay Marina",
+		"Phone": "(02) 9327 2400",
+		"Address": "8 Castra Pl, Double Bay NSW 2028",
+		"Web_address": "http://www.doublebaymarina.com.au",
+		"Operating_Hours": "7 days: 9am-6pm (Summer); 9am-5pm (Winter)",
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "Y",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "Y",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Please call ahead to confirm availability of destination mooring.",
+		"OBJECTID": 6
+	},
+	"location": {
+		"lat": -33.8735522696742,
+		"lng": 151.245444081527
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Birkenhead Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 4
+	},
+	"location": {
+		"lat": -33.8576958789993,
+		"lng": 151.16125765469
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Point Piper Marina",
+		"Phone": "(02) 9327 7847",
+		"Address": "5 Wunulla Rd, Point Piper NSW 2027",
+		"Web_address": "http://www.rosebaymarina.com.au",
+		"Operating_Hours": "7 days: 7am-6pm (Summer); 7am-5pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "Y",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": "Maximum 15 metre vessel at destination berth.",
+		"OBJECTID": 7
+	},
+	"location": {
+		"lat": -33.8684365349969,
+		"lng": 151.253628063673
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Rose Bay Marina",
+		"Phone": "(02) 9327 7847",
+		"Address": "594 New South Head Rd, Rose Bay NSW 2029",
+		"Web_address": "http://www.rosebaymarina.com.au",
+		"Operating_Hours": "7 days: 7am-6pm (Summer); 7am-5pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "Y",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "Y",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 20 metre vessel at destination berth.",
+		"OBJECTID": 8
+	},
+	"location": {
+		"lat": -33.8706418479772,
+		"lng": 151.255119499901
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "d'Albora Marinas The Spit",
+		"Phone": "(02) 9960 7700",
+		"Address": "Spit Rd, Mosman NSW 2088",
+		"Web_address": "http://www.dalboramarinas.com.au",
+		"Operating_Hours": "7 days: 8.30am-7.00pm (Summer); 8.30am-5.00pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "Y",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 11 metre vessel at destination berth.",
+		"OBJECTID": 11
+	},
+	"location": {
+		"lat": -33.8043409774325,
+		"lng": 151.245479701263
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Ferguson's Boatshed Marina",
+		"Phone": "(61) 408 696 969",
+		"Address": "83 Parriwi Rd, Mosman NSW 2088",
+		"Web_address": "http://www.fergusonsboatshed.com.au",
+		"Operating_Hours": "7 days: 7am-6pm (Summer); 7am-5pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "Y",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 15 metre vessel at destination berth, please call ahead to confirm availability of destination mooring.",
+		"OBJECTID": 12
+	},
+	"location": {
+		"lat": -33.8039552504011,
+		"lng": 151.246558276375
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Smith's Spit Boatshed",
+		"Phone": "(61) 408 696 969",
+		"Address": "81 Parriwi Rd, Mosman NSW 2088",
+		"Web_address": null,
+		"Operating_Hours": "7 days: 7am-6pm (Summer); 7am-5pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 10 metre vessel at destination berth, please call ahead to confirm availability of destination mooring.",
+		"OBJECTID": 13
+	},
+	"location": {
+		"lat": -33.8042047755226,
+		"lng": 151.246656074282
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Middle Harbour Yacht Club",
+		"Phone": "(02) 9969 1244",
+		"Address": "Parriwi Rd, Mosman NSW 2088",
+		"Web_address": "http://www.mhyc.com.au",
+		"Operating_Hours": "7 days: 9am-5pm",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 15 metre vessel at destination berth.",
+		"OBJECTID": 14
+	},
+	"location": {
+		"lat": -33.8073076880314,
+		"lng": 151.247985105356
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Roseville Bridge Marina",
+		"Phone": "(02) 9417 8222",
+		"Address": "15 Normac St, Roseville Chase NSW 2069",
+		"Web_address": null,
+		"Operating_Hours": "7 days: 8am-5pm",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "Y",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 12 metre vessel at destination berth.",
+		"OBJECTID": 15
+	},
+	"location": {
+		"lat": -33.7778154987406,
+		"lng": 151.206909422842
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Cammeray Marina",
+		"Phone": "(02) 9953 4761",
+		"Address": "46 Cowdroy Ave, Cammeray NSW 2062",
+		"Web_address": "http://www.cammeraymarina.com.au",
+		"Operating_Hours": "7 days: Dawn-Dusk",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 13 metre vessel at destination berth.",
+		"OBJECTID": 16
+	},
+	"location": {
+		"lat": -33.8185624462793,
+		"lng": 151.222829457886
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Balmoral Boatshed",
+		"Phone": "(02) 9969 6006",
+		"Address": "2 The Esplanade, Mosman NSW 2088",
+		"Web_address": "http://www.balmoralboatshed.com.au",
+		"Operating_Hours": "7 days: 7am-6pm",
+		"Berth": "Y",
+		"Water_Taxi": "N",
+		"Mooring": "Y",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 10 metre vessel at destination berth.",
+		"OBJECTID": 9
+	},
+	"location": {
+		"lat": -33.8277544478286,
+		"lng": 151.253427133636
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Clontarf Marina",
+		"Phone": "(02) 9949 5399",
+		"Address": "Sandy Bay Rd, Clontarf NSW 2093",
+		"Web_address": "http://www.clontarfmarina.com.au",
+		"Operating_Hours": "7 days: 8am-5pm; Daylight Savings: till 6pm on weekends/public holidays; Closed: Christmas /New Years Day",
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "Y",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "Y",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Please call ahead to confirm availability of destination mooring.",
+		"OBJECTID": 10
+	},
+	"location": {
+		"lat": -33.8047037016161,
+		"lng": 151.25273002164
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Davis Marina",
+		"Phone": "(02) 9948 3750",
+		"Address": "Gourlay Ave, Balgowlah NSW 2039",
+		"Web_address": "http://www.davismarina.com.au",
+		"Operating_Hours": "7 days: 9am-5pm (Mon-Fri Summer); 9am-6pm (Sat-Sun Summer); 9am-Sunset (Winter)",
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "Y",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": "Please call ahead to confirm availability of destination mooring.",
+		"OBJECTID": 17
+	},
+	"location": {
+		"lat": -33.7999239394711,
+		"lng": 151.268096412916
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Gladesville Bridge Marina",
+		"Phone": "(02) 9181 2014",
+		"Address": "380 Victoria Pl, Drummoyne, NSW 2047",
+		"Web_address": "http://www.gbmarina.com.au",
+		"Operating_Hours": "Mon-Fri: 8.30am-5.00pm; Weekends/Public Holidays: 9.00am-5.00pm",
+		"Berth": "Y",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": null,
+		"OBJECTID": 18
+	},
+	"location": {
+		"lat": -33.8438507860797,
+		"lng": 151.145587961243
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Hunters Hill Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 20
+	},
+	"location": {
+		"lat": -33.8357832548512,
+		"lng": 151.161055308346
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Bayview Park Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 19
+	},
+	"location": {
+		"lat": -33.8565754612656,
+		"lng": 151.122022345633
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Longueville Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 21
+	},
+	"location": {
+		"lat": -33.8361453025017,
+		"lng": 151.169380356041
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Northwood Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 22
+	},
+	"location": {
+		"lat": -33.8325568056266,
+		"lng": 151.17869799502
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Wharf",
+		"Facility": "Greenwich Wharf",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 23
+	},
+	"location": {
+		"lat": -33.83416825906,
+		"lng": 151.182326373973
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "d'Albora Marinas Cabarita",
+		"Phone": "(02) 9743 6277",
+		"Address": "142 Cabarita Rd, Cabarita NSW 2137",
+		"Web_address": "http://www.dalboramarinas.com.au",
+		"Operating_Hours": "7 days: 8.30am-6.30pm (Summer); 8.30am-5.00pm (Winter)",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "Y",
+		"Dinghy_Storage": "Y",
+		"Fuel": "Y",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 10 metre vessel at destination berth.",
+		"OBJECTID": 24
+	},
+	"location": {
+		"lat": -33.8419121881259,
+		"lng": 151.121018188291
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Blaxland Rd, Rhodes",
+		"Phone": null,
+		"Address": "Blaxland Rd, Rhodes NSW 2138",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 25
+	},
+	"location": {
+		"lat": -33.8228942888057,
+		"lng": 151.089203621035
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Burns Bay Reserve",
+		"Phone": null,
+		"Address": "Kooyong Rd, Riverview NSW 2066",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 26
+	},
+	"location": {
+		"lat": -33.8225493266812,
+		"lng": 151.152450856369
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Taplin Park",
+		"Phone": null,
+		"Address": "Bayswater St, Five Dock NSW 2046",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 27
+	},
+	"location": {
+		"lat": -33.8489735090415,
+		"lng": 151.148468456882
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Garigal National Park",
+		"Phone": null,
+		"Address": "Healey Way, Killarney Heights NSW 2087",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "Y",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 28
+	},
+	"location": {
+		"lat": -33.7754595901736,
+		"lng": 151.208487512818
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Hawthorn Canal",
+		"Phone": null,
+		"Address": "Canal Rd, Lilyfield NSW 2040",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 29
+	},
+	"location": {
+		"lat": -33.8728178589218,
+		"lng": 151.150424503055
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Bayview Park",
+		"Phone": null,
+		"Address": "Burwood Rd, Concord NSW 2137",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 30
+	},
+	"location": {
+		"lat": -33.8566247378148,
+		"lng": 151.120686608234
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Cabarita Park",
+		"Phone": null,
+		"Address": "Cabarita Rd, Cabarita NSW 2137",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 31
+	},
+	"location": {
+		"lat": -33.8415938300323,
+		"lng": 151.116139758587
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Little Manly Cove",
+		"Phone": null,
+		"Address": "Craig Ave, Manly NSW 2095",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 32
+	},
+	"location": {
+		"lat": -33.8064766679919,
+		"lng": 151.286153729746
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Manns Point",
+		"Phone": null,
+		"Address": "Manns Pl, Greenwich NSW 2065",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 34
+	},
+	"location": {
+		"lat": -33.8428581147886,
+		"lng": 151.18563828227
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Lyne Park",
+		"Phone": null,
+		"Address": "New South Head Rd, Rose Bay NSW 2029",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "Y",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 33
+	},
+	"location": {
+		"lat": -33.87140223779,
+		"lng": 151.262084291684
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Margaret Street, Woolwich",
+		"Phone": null,
+		"Address": "Margaret St, Woolwich NSW 2110",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "N",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 35
+	},
+	"location": {
+		"lat": -33.8428536528192,
+		"lng": 151.169233470765
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Kissing Point Park",
+		"Phone": null,
+		"Address": "Delange Rd, Putney NSW 2112",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 36
+	},
+	"location": {
+		"lat": -33.8305287492048,
+		"lng": 151.101342363588
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Wharf Road, Ermington",
+		"Phone": null,
+		"Address": "Wharf Rd, Ermington NSW 2115",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 37
+	},
+	"location": {
+		"lat": -33.8188184244449,
+		"lng": 151.072922543185
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Silverwater / Wilson Park",
+		"Phone": null,
+		"Address": "Clyde St, Silverwater NSW 2128",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 38
+	},
+	"location": {
+		"lat": -33.8246642480324,
+		"lng": 151.051489024853
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Boat Ramp",
+		"Facility": "Tunks Park",
+		"Phone": null,
+		"Address": "Brothers Ave, Cammeray NSW 2062",
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": "N",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "Y",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "N",
+		"Comment": null,
+		"OBJECTID": 39
+	},
+	"location": {
+		"lat": -33.8177551832052,
+		"lng": 151.219655945111
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Kirribilli Marina",
+		"Phone": "(02) 9968 1255",
+		"Address": "1 Stannards Pl, Kirribilli NSW 2061",
+		"Web_address": "http://www.kirribillimarina.com.au",
+		"Operating_Hours": "7 days: Dawn-Dusk",
+		"Berth": "Y",
+		"Water_Taxi": "Y",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "N",
+		"Recreation": "N",
+		"Dinghy_Storage": "Y",
+		"Fuel": "N",
+		"Pump_out": "N",
+		"Water": "N",
+		"Power": "N",
+		"Wi_Fi": "N",
+		"Hardstand_Slipway": "N",
+		"Marine_Services": "Y",
+		"Comment": "Maximum 10 metre vessel at destination berth. May not be accessible at low tide, please call ahead to confirm availability of destination mooring.",
+		"OBJECTID": 40
+	},
+	"location": {
+		"lat": -33.8445357312313,
+		"lng": 151.215899788574
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Cabarita",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 41
+	},
+	"location": {
+		"lat": -33.8466433374804,
+		"lng": 151.11966333033
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Cabarita",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 42
+	},
+	"location": {
+		"lat": -33.8460883370029,
+		"lng": 151.119918336343
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Athol Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 43
+	},
+	"location": {
+		"lat": -33.8485140768682,
+		"lng": 151.24371564651
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Athol Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 44
+	},
+	"location": {
+		"lat": -33.8489698943457,
+		"lng": 151.243965508782
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Athol Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 45
+	},
+	"location": {
+		"lat": -33.8480798151658,
+		"lng": 151.243240480713
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Athol Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 46
+	},
+	"location": {
+		"lat": -33.8471628169663,
+		"lng": 151.24264889309
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Athol Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 47
+	},
+	"location": {
+		"lat": -33.8494671396345,
+		"lng": 151.243899351802
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 48
+	},
+	"location": {
+		"lat": -33.7767528653033,
+		"lng": 151.231423926632
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 49
+	},
+	"location": {
+		"lat": -33.7774525539725,
+		"lng": 151.231710695188
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 50
+	},
+	"location": {
+		"lat": -33.7781301826835,
+		"lng": 151.231515074832
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 51
+	},
+	"location": {
+		"lat": -33.7788621861019,
+		"lng": 151.231466490983
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 52
+	},
+	"location": {
+		"lat": -33.7795344229281,
+		"lng": 151.231384188964
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 53
+	},
+	"location": {
+		"lat": -33.7754113210246,
+		"lng": 151.230702565105
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 54
+	},
+	"location": {
+		"lat": -33.7758448314236,
+		"lng": 151.230868826495
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Bantry Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 55
+	},
+	"location": {
+		"lat": -33.7762107307182,
+		"lng": 151.231146034926
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Sugarloaf Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 56
+	},
+	"location": {
+		"lat": -33.7940724456729,
+		"lng": 151.223607150355
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Sugarloaf Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 57
+	},
+	"location": {
+		"lat": -33.7946190347478,
+		"lng": 151.223896301707
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Sugarloaf Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 58
+	},
+	"location": {
+		"lat": -33.7952029013438,
+		"lng": 151.223915053929
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Sugarloaf Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 59
+	},
+	"location": {
+		"lat": -33.7955548359915,
+		"lng": 151.223922792781
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Pearl Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 60
+	},
+	"location": {
+		"lat": -33.8058329887193,
+		"lng": 151.242400025448
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Pearl Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 61
+	},
+	"location": {
+		"lat": -33.8056170051687,
+		"lng": 151.24290000522
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Fisher Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 62
+	},
+	"location": {
+		"lat": -33.8020252919781,
+		"lng": 151.247717618447
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Chinamans Beach",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 64
+	},
+	"location": {
+		"lat": -33.8096145371297,
+		"lng": 151.248572754786
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Fisher Bay",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 63
+	},
+	"location": {
+		"lat": -33.802164456043,
+		"lng": 151.248284982998
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Chinamans Beach",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 65
+	},
+	"location": {
+		"lat": -33.8088814463157,
+		"lng": 151.248937522186
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Chinamans Beach",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 66
+	},
+	"location": {
+		"lat": -33.8101039901025,
+		"lng": 151.248094209879
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Quarantine",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 67
+	},
+	"location": {
+		"lat": -33.8146210117748,
+		"lng": 151.286215054713
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Quarantine",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 68
+	},
+	"location": {
+		"lat": -33.8138000283691,
+		"lng": 151.28630999899
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Manly Cove",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 70
+	},
+	"location": {
+		"lat": -33.8000468263654,
+		"lng": 151.282902460617
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Quarantine",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 69
+	},
+	"location": {
+		"lat": -33.8134190502405,
+		"lng": 151.286369059465
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Manly Cove",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 71
+	},
+	"location": {
+		"lat": -33.7999515779108,
+		"lng": 151.282550186197
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Manly Cove",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 72
+	},
+	"location": {
+		"lat": -33.7998939559873,
+		"lng": 151.282205581143
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Manly Cove",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 73
+	},
+	"location": {
+		"lat": -33.7998268589259,
+		"lng": 151.281876020728
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Courtesy Mooring",
+		"Facility": "Manly Cove",
+		"Phone": null,
+		"Address": null,
+		"Web_address": null,
+		"Operating_Hours": null,
+		"Berth": null,
+		"Water_Taxi": null,
+		"Mooring": null,
+		"Toilet": null,
+		"Food": null,
+		"Recreation": null,
+		"Dinghy_Storage": null,
+		"Fuel": null,
+		"Pump_out": null,
+		"Water": null,
+		"Power": null,
+		"Wi_Fi": null,
+		"Hardstand_Slipway": null,
+		"Marine_Services": null,
+		"Comment": null,
+		"OBJECTID": 74
+	},
+	"location": {
+		"lat": -33.7997639933474,
+		"lng": 151.281543393064
+	}
+}, {
+	"attributes": {
+		"Facility_Type": "Marina",
+		"Facility": "Delta Marine ",
+		"Phone": "(02) 9327 4274",
+		"Address": "1B New Beach Rd, Rushcutters Bay, 2027, NSW",
+		"Web_address": "http://www.deltamarine.com.au/",
+		"Operating_Hours": "Mon-Sat: 8am-5pm",
+		"Berth": "Y",
+		"Water_Taxi": "N",
+		"Mooring": "N",
+		"Toilet": "Y",
+		"Food": "Y",
+		"Recreation": "N",
+		"Dinghy_Storage": "N",
+		"Fuel": "Y",
+		"Pump_out": "Y",
+		"Water": "Y",
+		"Power": "Y",
+		"Wi_Fi": "Y",
+		"Hardstand_Slipway": "Y",
+		"Marine_Services": "Y",
+		"Comment": null,
+		"OBJECTID": 75
+	},
+	"location": {
+		"lat": -33.873438101453,
+		"lng": 151.23407694597
+	}
+}]

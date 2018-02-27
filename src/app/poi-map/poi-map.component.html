@@ -1,0 +1,15 @@
+<div class="map"
+    leaflet
+    [leafletOptions]="options"
+    (leafletMapReady)="onMapReady($event)"
+    [leafletBaseLayers]="baseLayers"
+
+    [leafletMarkerCluster]="markerClusterData"
+    [leafletMarkerClusterOptions]="markerClusterOptions"
+    (leafletMarkerClusterReady)="markerClusterReady($event)">
+</div>
+
+<!-- 
+[leafletLayersControlOptions]="layersControlOptions"
+ -->
+
